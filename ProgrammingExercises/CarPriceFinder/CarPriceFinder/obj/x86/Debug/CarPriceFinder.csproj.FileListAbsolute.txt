@@ -1,0 +1,20 @@
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\bin\Debug\HonestRalphsUsedCars.accdb
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.exe.config
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.exe
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.pdb
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.Form1.resources
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.Properties.Resources.resources
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.exe
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.pdb
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.15\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.csproj.GenerateResource.Cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\bin\Debug\HonestRalphsUsedCars.accdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\bin\Debug\CarPriceFinder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.Form1.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.Properties.Resources.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\CarPriceFinder\CarPriceFinder\obj\x86\Debug\CarPriceFinder.csproj.GenerateResource.Cache

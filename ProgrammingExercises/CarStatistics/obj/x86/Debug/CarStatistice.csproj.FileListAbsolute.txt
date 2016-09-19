@@ -1,0 +1,14 @@
+C:\C#\Chapter.15\CarStatistice\CarStatistice\bin\Debug\HonestRalphsUsedCars.accdb
+C:\C#\Chapter.15\CarStatistice\CarStatistice\bin\Debug\CarStatistice.exe.config
+C:\C#\Chapter.15\CarStatistice\CarStatistice\bin\Debug\CarStatistice.exe
+C:\C#\Chapter.15\CarStatistice\CarStatistice\bin\Debug\CarStatistice.pdb
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\CarStatistice.Form1.resources
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\CarStatistice.Properties.Resources.resources
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\CarStatistice.exe
+C:\C#\Chapter.15\CarStatistice\CarStatistice\obj\x86\Debug\CarStatistice.pdb
+C:\C#\Chapter.15\CarStatistics\CarStatistics\bin\Debug\CarStatistice.exe.config
+C:\C#\Chapter.15\CarStatistics\CarStatistics\obj\x86\Debug\CarStatistice.exe
+C:\C#\Chapter.15\CarStatistics\CarStatistics\obj\x86\Debug\CarStatistice.pdb

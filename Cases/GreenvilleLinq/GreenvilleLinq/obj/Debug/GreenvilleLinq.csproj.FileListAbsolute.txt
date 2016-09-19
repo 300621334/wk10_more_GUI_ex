@@ -1,0 +1,20 @@
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.exe.config
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.Form1.resources
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.Properties.Resources.resources
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.csproj.GenerateResource.Cache
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleDatabase.accdb
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.exe
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.pdb
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.exe
+C:\C#\Chapter.15\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleDatabase.accdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\bin\Debug\GreenvilleLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.Form1.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.Properties.Resources.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\GreenvilleLinq\GreenvilleLinq\obj\Debug\GreenvilleLinq.csproj.GenerateResource.Cache

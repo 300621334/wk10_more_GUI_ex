@@ -1,0 +1,30 @@
+C:\C#\Chapter.15\MovieFInder\MovieFInder\bin\Debug\Movies.accdb
+C:\C#\Chapter.15\MovieFInder\MovieFInder\bin\Debug\MovieFInder.exe.config
+C:\C#\Chapter.15\MovieFInder\MovieFInder\bin\Debug\MovieFInder.exe
+C:\C#\Chapter.15\MovieFInder\MovieFInder\bin\Debug\MovieFInder.pdb
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\MovieFInder.Form1.resources
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\MovieFInder.Properties.Resources.resources
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\MovieFInder.exe
+C:\C#\Chapter.15\MovieFInder\MovieFInder\obj\x86\Debug\MovieFInder.pdb
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.exe.config
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.exe
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.pdb
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\Movies.accdb
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.exe
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.pdb
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.Form1.resources
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.Properties.Resources.resources
+C:\CSharp5\Chapter15\Solutions\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.csproj.GenerateResource.Cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\Movies.accdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\bin\Debug\MovieFInder.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.Form1.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.Properties.Resources.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\ProgrammingExercises\MovieFinder\MovieFInder\obj\x86\Debug\MovieFInder.csproj.GenerateResource.Cache

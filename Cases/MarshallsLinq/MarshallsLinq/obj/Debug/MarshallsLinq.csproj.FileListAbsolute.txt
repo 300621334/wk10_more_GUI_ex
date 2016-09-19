@@ -1,0 +1,20 @@
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.exe.config
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.csprojResolveAssemblyReference.cache
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.Form1.resources
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.Properties.Resources.resources
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.csproj.GenerateResource.Cache
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsDatabase.accdb
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.exe
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.pdb
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.exe
+C:\C#\Chapter.15\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsDatabase.accdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\bin\Debug\MarshallsLinq.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.csprojResolveAssemblyReference.cache
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.Form1.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.Properties.Resources.resources
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk10_more_GUI_ex\Cases\MarshallsLinq\MarshallsLinq\obj\Debug\MarshallsLinq.csproj.GenerateResource.Cache
